@@ -4,3 +4,4 @@ function v(x,n){
     const s=x-n;
 }
 bool = true;
+const m=bool?1:0;
